@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-07-29T15:49:17 IST" name="Default suite" finished-at="2022-07-29T15:50:05 IST" duration-ms="48216">
+    <groups>
+    </groups>
+    <test started-at="2022-07-29T15:49:17 IST" name="Default test" finished-at="2022-07-29T15:50:05 IST" duration-ms="48216">
+      <class name="testcases.Tc01AmazonShopping">
+        <test-method is-config="true" signature="setup()[pri:0, instance:testcases.Tc01AmazonShopping@c88a337]" started-at="2022-07-29T15:49:17 IST" name="setup" finished-at="2022-07-29T15:49:29 IST" duration-ms="12051" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="validateFirstPage()[pri:0, instance:testcases.Tc01AmazonShopping@c88a337]" started-at="2022-07-29T15:49:29 IST" name="validateFirstPage" finished-at="2022-07-29T15:49:37 IST" duration-ms="7917" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateFirstPage -->
+        <test-method signature="validatePage1()[pri:1, instance:testcases.Tc01AmazonShopping@c88a337]" started-at="2022-07-29T15:49:37 IST" name="validatePage1" finished-at="2022-07-29T15:49:44 IST" duration-ms="6609" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validatePage1 -->
+        <test-method signature="iphonesAbove1l()[pri:2, instance:testcases.Tc01AmazonShopping@c88a337]" started-at="2022-07-29T15:49:44 IST" name="iphonesAbove1l" finished-at="2022-07-29T15:50:04 IST" duration-ms="20334" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- iphonesAbove1l -->
+        <test-method signature="CartValidation()[pri:3, instance:testcases.Tc01AmazonShopping@c88a337]" started-at="2022-07-29T15:50:04 IST" name="CartValidation" finished-at="2022-07-29T15:50:04 IST" duration-ms="314" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CartValidation -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testcases.Tc01AmazonShopping@c88a337]" started-at="2022-07-29T15:50:04 IST" name="tearDown" finished-at="2022-07-29T15:50:05 IST" duration-ms="873" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testcases.Tc01AmazonShopping -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
